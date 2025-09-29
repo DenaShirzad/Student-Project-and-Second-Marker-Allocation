@@ -1,0 +1,9 @@
+metric,value,weight
+max_students_per_project,0,80
+min_students_per_project,0,80
+max_students_per_supervisor,0,80
+min_students_per_supervisor,0,80
+preference_penalty,72,10
+prerequisite_unmet,0,30
+average_unmet,1,30
+client_based_ineligible,0,80

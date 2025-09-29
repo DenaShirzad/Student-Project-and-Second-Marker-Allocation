@@ -1,0 +1,8 @@
+Violation Type,Count
+average_unmet,2
+max_students_per_project,0
+max_students_per_supervisor,0
+min_students_per_project,0
+min_students_per_supervisor,0
+preference_penalty,78
+prerequisite_unmet,0
