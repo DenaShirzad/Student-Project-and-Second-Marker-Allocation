@@ -1,6 +1,6 @@
 # Optimising Student Project and Second Marker Allocation with Heuristics & Metaheuristics
 
-This project tackles the **student project allocation (SPA)** problem and the linked task of **second marker assignment** under realistic institutional constraints. Developed as part of my **MSc extended research project at The University of Manchester (2025)**.  
+This project tackles the **student project allocation (SPA)** problem and the linked task of **second marker assignment** under realistic institutional constraints.
 
 
 ## Methods & Findings
